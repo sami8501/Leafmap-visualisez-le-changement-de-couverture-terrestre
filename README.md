@@ -1,5 +1,3 @@
-Voici un projet de fichier README pour le package leafmap, axé sur la visualisation du changement d'occupation de l'espace d'une aire géographique donnée, basé sur le notebook Python fourni :
-
 # Leafmap - Visualisation du changement d'occupation des sols
 
 Leafmap est une bibliothèque Python puissante pour la création de cartes interactives et la visualisation de données géospatiales. Ce README se concentre sur l'utilisation de leafmap pour visualiser les changements d'occupation des sols dans plusieurs régions métropolitaines américaines, en utilisant les données de la National Land Cover Database (NLCD) de l'US Geological Survey (USGS).
