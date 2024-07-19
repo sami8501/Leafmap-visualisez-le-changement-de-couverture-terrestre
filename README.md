@@ -88,6 +88,3 @@ Leafmap est distribué sous licence MIT.
 ## Contact
 
 Pour plus d'informations, visitez la [documentation officielle de leafmap](https://leafmap.org/).
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/21663081/cc376a8c-b24c-4a91-bd60-83ee30b621fc/paste.txt
